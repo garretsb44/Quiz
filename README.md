@@ -8,7 +8,7 @@ I have created an application that allows the user to answer a five question qui
 
 Installation:
 
-The site can be accessed through github URL 
+The site can be accessed through https://garretsb44.github.io/Quiz/
 
 Usage:
 
